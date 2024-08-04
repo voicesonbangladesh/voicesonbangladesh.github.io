@@ -1,4 +1,6 @@
-## Journalists Covering Bangladesh| Name and Surname       | Media outlet                                                                   | Title                               | Media Profile                                                | X Account                                                    | Email Address            |
+## Journalists Covering Bangladesh 
+
+| Name and Surname       | Media outlet                                                                   | Title                               | Media Profile                                                | X Account                                                    | Email Address            |
 |:-----------------------|:-------------------------------------------------------------------------------|:------------------------------------|:-------------------------------------------------------------|:-------------------------------------------------------------|:-------------------------|
 | Anbarasan Ethirajan    | [BBC]()                                                                        | South Asia Editor/Analyst           |                                                              | [https://x.com/anbarasanethi](https://x.com/anbarasanethi)   |                          |
 | Faisal Mahmud          | [Freelance/AL Jazeera]()                                                       | Reporter based in Dhaka             |                                                              | [https://x.com/faisal_reports](https://x.com/faisal_reports) |                          |

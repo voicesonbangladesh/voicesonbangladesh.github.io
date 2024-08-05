@@ -12,4 +12,4 @@
 | Irfan Aftab            | Deutsche Welle                                                                 | Multimedia Journalist               | [https://x.com/IrfanAftaab](https://x.com/IrfanAftaab)       |
 | Arafatul Islam         | [Deutsche Welle](https://www.dw.com/en/arafatul-islam/person-19377318)         | Multimedia Journalist               | [https://x.com/arafatul](https://x.com/arafatul)             |
 | Harun Ur Rashid Swapan | [Deutsche Welle](https://www.dw.com/en/harun-ur-rashid-swapan/person-67821203) | Dhaka Correspondent                 | [https://x.com/swapansg](https://x.com/swapansg)             |
-| Marco Masciaga         | Il Sole 24 Ore                                                                 | South Asia correspondent            | [https://x.com/marcomasciaga](https://x.com/marcomasciaga)   |
+| Marco Masciaga         | [Il Sole 24 Ore](https://argomenti.ilsole24ore.com/marco-masciaga)             | South Asia correspondent            | [https://x.com/marcomasciaga](https://x.com/marcomasciaga)   |
